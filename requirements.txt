@@ -1,0 +1,10 @@
+scipy >= 1.0.0
+numpy >= 1.15.0
+pandas >= 0.13
+absl-py >= 0.10.0
+PyPDF2 >= 1.26.0
+librosa >= 0.7.0
+nltk >= 3.5
+praat-parselmouth >= 0.3.3
+SoundFile >= 0.10.3.post1
+webrtcvad-wheels>=2.0.10.post2
